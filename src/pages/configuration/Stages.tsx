@@ -10,7 +10,7 @@ import {
     Edit2,
     Trash2,
     Save,
-    X,
+    X, 
     LayoutGrid,
     List,
     ChevronRight,
