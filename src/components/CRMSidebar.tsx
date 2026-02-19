@@ -87,7 +87,6 @@ const getMenuItems = (t: any): MenuItem[] => [
       { title: t('sidebar.stages'), icon: TrendingUp, url: "/configuration/stages" },
       { title: t('sidebar.tags'), icon: Tag, url: "/configuration/tags" },
       { title: t('sidebar.lost_reasons'), icon: AlertCircle, url: "/configuration/lost-reasons" },
-      { title: t('sidebar.fields'), icon: Database, url: "/configuration/fields" },
     ],
   },
 ]
